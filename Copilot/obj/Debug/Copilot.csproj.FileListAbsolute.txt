@@ -1,0 +1,7 @@
+D:\Copilot\Copilot\Copilot\bin\Debug\Copilot.exe.config
+D:\Copilot\Copilot\Copilot\bin\Debug\Copilot.exe
+D:\Copilot\Copilot\Copilot\bin\Debug\Copilot.pdb
+D:\Copilot\Copilot\Copilot\obj\Debug\Copilot.csproj.AssemblyReference.cache
+D:\Copilot\Copilot\Copilot\obj\Debug\Copilot.csproj.CoreCompileInputs.cache
+D:\Copilot\Copilot\Copilot\obj\Debug\Copilot.exe
+D:\Copilot\Copilot\Copilot\obj\Debug\Copilot.pdb
